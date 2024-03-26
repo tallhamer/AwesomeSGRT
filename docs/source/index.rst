@@ -10,8 +10,6 @@ patients’ surface in 3D, for both setup and motion management during radiother
 be used for many types of radiation therapy. There are numerous publications that support its use in the treatment of
 breast, brain, head and neck cancer, sarcoma, and other conditions.
 
-This is a test
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
